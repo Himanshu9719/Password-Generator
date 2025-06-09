@@ -23,12 +23,11 @@ This project runs directly in Google Colab or any Python environment.
 2. User selects whether to include letters, digits, and symbols.
 3. A password is generated using random choices from the selected character sets.
 
-## ▶️ Run in Google Colab
-
-Click the button below to open the notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
-Or upload the notebook manually to [https://colab.research.google.com](https://colab.research.google.com)
-
 ## 📦 Example Output
+🔐 Password Generator
+Enter password length (e.g., 8, 12, 16): 10
+Include letters? (y/n): y
+Include numbers? (y/n): y
+Include special characters? (y/n): y
+
+🔑 Your secure password is: fA9&zP3!Xk
