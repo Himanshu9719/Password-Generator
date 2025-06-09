@@ -25,9 +25,13 @@ This project runs directly in Google Colab or any Python environment.
 
 ## 📦 Example Output
 🔐 Password Generator
+
 Enter password length (e.g., 8, 12, 16): 10
+
 Include letters? (y/n): y
+
 Include numbers? (y/n): y
+
 Include special characters? (y/n): y
 
 🔑 Your secure password is: fA9&zP3!Xk
