@@ -24,4 +24,4 @@ This project runs directly in Google Colab or any Python environment.
 3. A password is generated using random choices from the selected character sets.
 
 ## 📦 Example Output
-![Password Generator Output](Screenshot_20250609-213508.Chrome.jpg)
+![Image](https://github.com/user-attachments/assets/057bc7d7-5193-4e98-9b84-ee6cb41482b3)
